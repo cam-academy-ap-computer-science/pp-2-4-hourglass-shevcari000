@@ -1,0 +1,21 @@
+Correct Output: 0/10 
+/*
+  Compilation errors.
+*/
+
+Proper Use of Static Methods: 3/3
+Proper Use of for loops: 2/3
+/*
+  Didn't declare the variable line but using itin the for loop.
+*/
+
+Pseudocode: 0/3
+Comments: 0/2 
+Consistent Layout and Style following Style Guidelines: 1/2
+/*
+  The name of DrawTopLine and DrawTop methods didn't begin with lowercase letter.
+*/
+
+Proper Use of at least one Class Constant: 0/2
+Extra Credit - Hourglass can be resized by changing only one Class Constant: 0/2
+
